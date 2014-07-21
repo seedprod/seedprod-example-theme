@@ -1,17 +1,4 @@
-#cspv4-content{
--webkit-box-shadow: 0 1px 3px rgba(0,0,0,.13);
-box-shadow: 0 1px 3px rgba(0,0,0,.13);
-}
-
-.seed-csp4 input[type=text]{
-border-color: #ddd;
-background-color:#FBFBFB;
-}
-
-#cspv4-name, #cspv4-email{
-border-radius:0;
-}
-
-#cspv4-subscribe-btn{
-border-radius:4px;
-}
+/*
+* Enter your themes custom css here.
+* Always enter enter customization as a theme optin if possible so the user can easily override it.
+*/

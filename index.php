@@ -1,3 +1,4 @@
+<!-- Note this file is only nessary in the theme if you are changing the structure. -->
 <!DOCTYPE html>
 <html class="seed-csp4">
     <head>
