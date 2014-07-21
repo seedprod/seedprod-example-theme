@@ -2,3 +2,8 @@
 * Enter your themes custom css here.
 * Always enter enter customization as a theme optin if possible so the user can easily override it.
 */
+
+
+.seed-csp4 body{
+    background: rgba(0,0,0,0.5);
+}
